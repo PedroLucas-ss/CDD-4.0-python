@@ -1,5 +1,3 @@
-import os
-
 while True:
     numero = int(input("Digite o numero"))
     antecessor = numero - 1
