@@ -11,4 +11,3 @@ print('+')
 print(vetorB)
 print('=')
 print(vetorC)
-
