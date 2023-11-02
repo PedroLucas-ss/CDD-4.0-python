@@ -1,4 +1,4 @@
-from  lib import  *
+from  tamagotchi-lib import  *
 p1 = Pessoa("pedro", 63, 20)
 
 p1.comer("sorvete")
